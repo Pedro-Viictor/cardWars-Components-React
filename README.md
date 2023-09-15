@@ -1,4 +1,4 @@
-# cardWars-Components-ReactJS
+# cardWars-Components-React
 
 ### Esse projeto simples foi criado com o objetivo treinar os Componentes React para aproveitamento de código.
 
