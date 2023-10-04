@@ -1,3 +1,6 @@
+![card-wars](https://github.com/Pedro-Viictor/cardWars-Components-React/assets/107973648/eeb43f98-c91c-495c-bdd8-57a227e32137)
+
+
 # cardWars-Components-React
 
 ### Esse projeto simples foi criado com o objetivo treinar os Componentes React para aproveitamento de código.
